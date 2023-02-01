@@ -1,0 +1,194 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* reset */
+
+nav li {
+  display: inline;
+  padding-right: 66px;
+  padding-bottom: 30px;
+}
+a {
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+}
+nav {
+  border-bottom: 1px solid rgb(0, 0, 0);
+}
+nav ul {
+  padding-bottom: 30px;
+  padding-left: 657px;
+  padding-top: 30px;
+  padding-right: 700px;
+}
+ul li {
+  list-style: none;
+}
+.m-section {
+  display: inline-block;
+  margin-top: 264px;
+  margin-right: 112px;
+}
+div {
+  border: 4px solid rgb(0, 0, 0);
+}
+button {
+  margin-top: 26px;
+  margin-left: 348px;
+  background-color: rgba(255, 255, 255, 0);
+  border-radius: 4px;
+}
+main {
+  margin-right: 105px;
+  margin-left: 126px;
+}
+img {
+  width: 347.94px;
+  height: 359px;
+}
+div li {
+  padding: 18.48px;
+}
+
+h1 {
+  margin-right: 500px;
+  margin-left: 500px;
+  margin-top: 117px;
+  margin-bottom: 270px;
+}
+p {
+  font-size: 25px;
+  margin-right: 490px;
+  margin-left: 175px;
+}
+address {
+  font-size: 25px;
+  margin-left: 175px;
+  margin-top: 108px;
+}
